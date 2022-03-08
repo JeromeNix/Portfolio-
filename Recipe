@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+ <!-- Jeremyah Ortiz 3/8/2021 -->
+ <!-- Jeremyah Ortiz 2/24/2022 -->
+ 
+ <!-- The most difficult project i've had to work on-->
+        <h1>Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+       <ol>
+       <li><a href="#recipe1">Crème caramel</a></li>
+       <li><a href="#recipe2"> Honey-Lime Chicken</a></li>
+       <li><a href="#recipe3">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recipe1"> Crème caramel</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Cremecaramel.jpg" alt="0" width="463">
+        <ul>
+            <li>Time: 1 hour and 15 mins</li>
+            <li>Servings: 8 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+           <tr>
+                <td> Caramel </td> 
+                <td>1 </td>
+           </tr>
+          
+            <tr> 
+          
+             <td> cups whole milk</td>
+             <td> 2 </td>
+           </tr>
+           <tr>
+             <td>cup heavy cream </td>
+              <td> 1  </td>
+           </tr>
+           <tr>
+             <td> cup of granulated sugar </td>
+              <td> 2/3 </td>
+           </tr>
+           <tr>
+             <td>tsp. table salt </td>
+              <td> 1/8 </td>
+           </tr>
+           <tr>
+             <td>large eggs  </td>
+              <td> 4 </td>
+           </tr>
+           <tr>
+             <td> large egg yolks </td>
+              <td> 2 </td>
+           </tr>
+           <tr>
+             <td> tsp. pure vanilla extract </td>
+              <td> 1 </td>
+           </tr>
+            </tbody>
+        </table>
+        
+        
+<p><strong>
+Step 1:
+</strong> Position a rack in the center of the oven and heat the oven to 325°F. Arrange eight 6-oz. ramekins in a large roasting pan.
+
+</p>
+<p><strong>Step 2: </strong>Make the Basic Caramel according to the directions, but cook it another 30 seconds or so to a medium-dark amber. Immediately pour the hot caramel into the bottoms of the ramekins, portioning it equally. Quickly and carefully swirl each ramekin to coat the bottom evenly and coax the caramel about 1/2 inch up the sides of the ramekins. Set aside to let the caramel harden.
+</p> 
+<p><strong>Step 3: </strong> Fill a teakettle with water and bring to a boil. Combine the milk, cream, sugar, and salt in a heavy-duty 3-quart saucepan and bring to a simmer over medium-high heat, stirring occasionally. Remove the pan from the heat.
+</p> 
+<p><strong>Step 4: </strong>  Whisk the eggs, yolks, and vanilla in a medium bowl and then slowly add the hot milk mixture, whisking constantly. Strain the mixture through a fine sieve into a 1-quart heatproof measuring cup. Portion the custard among the ramekins.it should just about fill each one. Pour the hot water from the kettle into the roasting pan until it comes one-third to halfway up the sides of the ramekins (be careful not to splash water into the custards). Bake the custards in the water bath until the edges are set but the centers still jiggle slightly when gently shaken, 30 to 35 minutes. If the centers are more wavy than jiggly, cook them a bit longer. Rotate the pan halfway through if the custards appear to be baking unevenly.
+
+Carefully transfer the ramekins to a wire rack and cool completely. Cover each ramekin with plastic wrap and refrigerate for at least 12 hours, or up to 3 days.
+
+To serve, run a small knife around the edge of each ramekin to loosen the custard. Quickly invert each custard onto a plate. If it doesn’t release right away, gently shake the ramekin from side to side a few times to help it out.
+</p>
+         <h3 id="recipe2">Garlic Lemon Chicken</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Lemonchicken.jpg" width="463">
+        <ul>
+            <li>Time: 25 mins </li>
+            <li>Servings: 2  </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+             
+            </thead>
+            <tbody>
+            <tr>
+             <td>tablespoons butter  </td>
+              <td> 2 </td>
+           </tr>
+           <tr>
+             <td> skinless, boneless chicken breast halves </td>
+              <td>3</td>
+           </tr>
+           <tr>
+             <td>teaspoons salt  </td>
+              <td> 1½ </td>
+           </tr>
+           <tr>
+             <td> teaspoons ground black pepper </td>
+              <td> 1½  </td>
+           </tr>
+           <tr>
+             <td> tablespoons garlic powder </td>
+              <td> 2 </td>
+           </tr>
+              <tr>
+             <td>lemon, juiced </td>
+             <td> 1 </td>
+           </tr>
+                  
+            </tbody>
+        </table>
+          
+<p><strong>Step 1: </strong>Melt butter in a skillet over medium-high heat.
+</p>
+<p><strong>Step 2: </strong>Season chicken with salt and pepper; place in the melted butter. Cook chicken, flipping frequently, until browned, about 5 minutes. Sprinkle 1 tablespoon garlic powder over chicken; flip and sprinkle 1 tablespoon garlic powder on second side. Cook each side for 2 minutes.
+</p> 
+<p><strong>Step 3: </strong> Pour lemon juice over each side of chicken and cook until no longer pink in the center, 5 to 10 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).
+</p> 
+
+
+  <h4 id="recipe3">Lemon Raspberry Pistachio Sweet Rolls</h4>
+        
+        <ul>
+            <li>Time:3 hours 2 minutes</li>
+            <li>Servings: 12 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+         <th>Ingredients/Quantity</th>
+                    
+                </tr>
+             
+            </thead>
+            <tbody>
+            <tr>
+     <td> <strong>For the dough</strong> <br> 3 oz. (6 Tbs.)unsalted butter, softened; more for the bowl<br>1/2 cup whole milk<br>13-1/2 oz. (3 cups) all-purpose flour; more as needed<br>1/3 cup granulated sugar<br>1/4-oz. packet rapid-rise or active dry yeast <br> 1 tsp finely grated lemon zest<br>3/4 table salt<br>2 large eggs, lightly beaten<br><strong>For the filling</strong><br>3 oz. (6 Tbs.) unsalted butter, softened; more for the baking dish<br>1/4 cup granulated sugar<br>1/2 table salt<br>All-purpose flour, as needed<br> 1 cup raspberry preserves<br><strong>For baking, glazing, and topping</strong><br>1 large egg yolk<br>3 oz. (3/4 cup) confectioners’sugar<br>1 oz. (2 Tbs.) unsalted butter, softened<br> 1 tsp. finely grated lemon zest<br>Heavy cream, as needed<br> 1/4 cup toasted, chopped pistachios</td>
+            </tr>
+            </tbody>
+        </table>
+          
+<p><strong>Step 1: </strong> Lightly butter a large bowl and set aside.
+In a small pot, bring the milk just to a boil over medium heat, watching closely to ensure it doesn’t boil over. Transfer to a small bowl and add the butter to melt. Let cool to 110°F to 115°F.
+In the bowl of a stand mixer fitted with the paddle attachment or in a large bowl, combine the flour, sugar, yeast, lemon zest, and salt on medium speed. With the mixer on low speed or with a wooden spoon, add the milk mixture and eggs, mixing until just combined.
+If using a mixer, switch to the dough hook, and knead on low speed until smooth and elastic, 6 to 8 minutes. Or, tip the dough onto a work surface and knead by hand for about 12 minutes.
+Form the dough into a ball, set it in the prepared bowl, and cover with plastic wrap. Set aside in a warm spot until it has almost doubled in size, 1 to 2 hours.
+</p>
+<p><strong>Step 2: </strong> Butter a 9×13-inch baking dish. Combine the sugar and salt in a small bowl.
+Punch down the dough and turn it out onto a very lightly floured surface. With a lightly floured rolling pin, roll it into a 12×16-inch rectangle. Spread the butter evenly over the entire surface, followed by the preserves, and then coat evenly with the sugar and salt.
+Starting at a short end, tightly roll the dough into a log and pinch the long seam and ends closed. With a serrated knife, cut the roll crosswise into 12 equal pieces. Set the pieces in the prepared dish, cut side up. Cover with plastic wrap, and let sit at room temperature until the dough is pillowy and the rolls are touching, 1 to 2 hours.
+</p> 
+<p><strong>Step 3: </strong> Position a rack in the center of the oven and heat the oven to 350°F.
+In a small bowl, prepare an egg wash by whisking the egg yolk with 2 tsp. water. Uncover the rolls and brush with the egg wash (you won’t need it all). Bake until golden brown, 18 to 24 minutes. Transfer the baking dish to a rack to cool until warm, about 20 minutes. Separate the rolls with a table knife, but don’t remove them from the baking dish unless you want to glaze them individually.
+Meanwhile, beat the confectioners’ sugar, butter, and lemon zest with an electric mixer on medium speed until smooth. Add enough heavy cream for your desired consistency (you may not need any, or you may need as much as 1/2 cup). Spread or drizzle your desired amount over the warm rolls (you may have glaze left over). Sprinkle the pistachios over the rolls while the glaze is still sticky. Pull the rolls apart and serve warm.<br>
+<strong>Tip </strong><br>
+The rolls may be shaped 1 day ahead. After arranging them in the baking dish, cover and refrigerate them before letting them rise. When ready to bake, let rise as described above; because they are cold, they will take an extra hour or so.
+</p> 
+<p><em>Sources: </em></p>
+ <table>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.allrecipes.com/recipe/240993/lemon-garlic-chicken/">Lemon Garlic Chicken </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href= "https://www.finecooking.com/recipe/basic-creme-caramel"> Crème caramel</a>
+            </td>
+        </tr>
+            <tr>
+                <td>
+                    <a href= "https://www.finecooking.com/recipe/lemon-raspberry-pistachio-sweet-rolls"> Lemon Raspberry Pistachio Sweet Rolls</a>
+                </td>    
+        </tr>   
+      </tbody> 
+      
+  </table>
+    </body>
+</html>
